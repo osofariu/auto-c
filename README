@@ -4,3 +4,14 @@ In the meantime:
 - get this working with separate src and build directory
 - ideally put object files in obj directory
 - make sure we can create a distribution
+
+INSTRUCTIONS for getting the project built and run:
+
+git clone https://github.com/osofariu/auto-c.git
+aclocal
+autoconf
+automake --add-missing
+./configure
+make
+cd bin
+./types 
