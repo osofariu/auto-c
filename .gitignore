@@ -1,0 +1,22 @@
+# auto-generated files:
+.deps/
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+autoscan.log
+compile
+config.log
+config.status
+configure
+configure.scan
+depcomp
+install-sh
+missing
+
+COPYING
+INSTALL
+
+
+# compilation files:
+*.o

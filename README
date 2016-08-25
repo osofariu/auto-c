@@ -1,0 +1,6 @@
+Add instructions for building and running this program
+
+In the meantime:
+- get this working with separate src and build directory
+- ideally put object files in obj directory
+- make sure we can create a distribution
