@@ -17,6 +17,7 @@ missing
 COPYING
 INSTALL
 
+bin/
 
 # compilation files:
 *.o
