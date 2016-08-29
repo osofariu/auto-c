@@ -15,3 +15,12 @@ automake --add-missing
 make
 cd bin
 ./types 
+
+
+# additional make tasks:
+
+clean-gen:
+        - will clean-up generated logs from the autocofig process
+        
+real-clean
+        - will call both clean and clean-gen
