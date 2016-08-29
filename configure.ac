@@ -12,7 +12,6 @@ AC_PROG_CC
 AC_CHECK_LIB([m], [main])
 AC_CHECK_LIB([pthread], [main])
 AC_CHECK_LIB([rt], [main])
-AC_CHECK_LIB([subunit], [main])
 
 # Checks for header files.
 AC_CHECK_HEADERS([limits.h stdlib.h string.h])
